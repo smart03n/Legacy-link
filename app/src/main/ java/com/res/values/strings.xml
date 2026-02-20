@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">LegacyLink</string>
+
+    <!-- Host Screen -->
+    <string name="host_mode">Host Mode</string>
+    <string name="select_dormancy_time">Select Dormancy Time</string>
+    <string name="start_timer">Start Dormancy Timer</string>
+
+    <!-- Receiver Screen -->
+    <string name="receiver_mode">Receiver Mode</string>
+    <string name="connect_host">Connect to Host Device</string>
+    <string name="extract_files">Extract Files</string>
+
+    <!-- Timer Options -->
+    <string name="minutes_30">30 Minutes (Trial)</string>
+    <string name="hour_1">1 Hour</string>
+    <string name="hours_6">6 Hours</string>
+    <string name="hours_24">24 Hours</string>
+
+</resources>
